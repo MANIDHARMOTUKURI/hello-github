@@ -1,0 +1,14 @@
+@page :first {
+  margin-left: 40%;
+  margin-top: 50%;
+}
+
+@page :left {
+  margin-left: 10%;
+  margin-top: 10%;
+}
+
+@page :right {
+  margin-left: 90%;
+  margin-top: 90%;
+}
